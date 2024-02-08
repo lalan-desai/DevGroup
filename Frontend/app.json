@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "Dev Group",
+    "slug": "DevGroup",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "assets/mainicon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "assets/logo.png",
+      "contentFit": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.lalandesai.DevGroup"
+    },
+    "android": {
+      "permissions": [
+        "READ_CONTACTS",
+        "WRITE_CONTACTS"
+      ],
+      "adaptiveIcon": {
+        "foregroundImage": "assets/mainicon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.lalandesai.DevDandiyaGroup"
+    },
+    "web": {
+      "favicon": "./favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1e7b89a2-d937-4da0-af77-df91748be825"
+      }
+    }
+  }
+}
