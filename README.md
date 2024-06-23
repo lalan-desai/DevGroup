@@ -1,5 +1,7 @@
 # DevGroup
 
+[![DevGroup](https://lalandesai.dev/DevGroup.png "DevGroup")](https://lalandesai.dev/DevGroup.png "DevGroup")
+
 A student managing mobile applicaiton which can be usefull for your final year college project!
 
 # Setup
