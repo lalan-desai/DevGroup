@@ -2,6 +2,10 @@
 
 [![DevGroup](https://lalandesai.dev/DevGroup.png "DevGroup")](https://lalandesai.dev/DevGroup.png "DevGroup")
 
+## Authentication:
+![Authentication](https://github.com/lalan-desai/DevGroup/assets/97940810/5c680d9c-6ef1-42cd-8167-53de3421dbee)
+
+
 A student managing mobile applicaiton which can be usefull for your final year college project!
 
 # Setup
