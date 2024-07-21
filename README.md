@@ -2,10 +2,7 @@
 
 [![DevGroup](https://lalandesai.dev/DevGroup.png "DevGroup")](https://lalandesai.dev/DevGroup.png "DevGroup")
 
-
-
-
-## Watch Our Video
+## Demo Video
 
 [![Video Thumbnail](https://lalandesai.dev/DevGroup.png)](https://github.com/user-attachments/assets/9c3b4771-76b0-42eb-8e85-d76239acd90b)
 
