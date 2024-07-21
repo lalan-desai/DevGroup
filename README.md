@@ -3,14 +3,8 @@
 [![DevGroup](https://lalandesai.dev/DevGroup.png "DevGroup")](https://lalandesai.dev/DevGroup.png "DevGroup")
 
 
-
-
-
-
-
 ## Demo Video
-
-[![Video Thumbnail](https://lalandesai.dev/DevGroup.png)](https://github.com/user-attachments/assets/3f51b969-15c0-4819-8d0e-6b54c180358e)
+[![Video Thumbnail](https://lalandesai.dev/DevGroup.png)](https://github.com/user-attachments/assets/b2bc6b00-f5b0-41fd-86a6-f53a2a2638da)
 
 
 
