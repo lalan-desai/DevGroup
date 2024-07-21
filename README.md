@@ -5,7 +5,10 @@
 
 
 
-You can watch the video [here](https://github.com/user-attachments/assets/9c3b4771-76b0-42eb-8e85-d76239acd90b).
+## Watch Our Video
+
+[![Video Thumbnail](https://lalandesai.dev/DevGroup.png)](https://github.com/user-attachments/assets/9c3b4771-76b0-42eb-8e85-d76239acd90b)
+
 
 
 A student managing mobile applicaiton which can be usefull for your final year college project!
